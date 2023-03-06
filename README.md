@@ -33,7 +33,9 @@ The Results output should look like this:
 Save the results as "Results.csv" and upload into the same directory where this file is. It will be used in the Python notebook below.  
 
 Also save the resultant "Count Mask" image file with the name "Count_Mask_22946173.tif" and upload into the [image_files](image_files) directory. (It should show up below once it is uploaded).  
-![](image_files/Count_Mask_22946173.tif)  
+![](image_files/Count_Mask_22946173.tif) 
+The tif file was not showing up on it's own, I added a jpg as well for reference, but both are uploaded in the image_files directory
+![](image_files/Count_Mask_22946173.jpg)  
 
 Q4) How many particles were detected?  
 A4) Put your answer here.  2388 nuclei
